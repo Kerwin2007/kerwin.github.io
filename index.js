@@ -9,7 +9,7 @@ var S = {
         if (i !== -1) {
             S.UI.simulate(decodeURI(action).substring(i + 3));
         } else {
-            S.UI.simulate('|#countdown 5|kerwin|慕海明|祝|陈新源|生|日|快|乐|#rectangle|每天|都要|开心|幸福|未来||前程似锦|喜乐平安||顺顺利利|愿|所有美好|都|如期而至！|#rectangle|你还在？|期待什么|欣赏烟花吧|----你哥|');
+            S.UI.simulate('|#countdown 5|kerwin|祝|你|生|日|快|乐|#rectangle|每天|都要|开心|幸福|未来||前程似锦|喜乐平安||顺顺利利|愿|所有美好|都|如期而至！|#rectangle|你还在？|期待什么|欣赏烟花吧|');
 
         }
 
